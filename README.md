@@ -1,0 +1,2 @@
+# Omori-Music-Replacement---Ultimate-Doom
+This is a mod that replaces the normal e1m1, to e1m9 soundtracks to those from the video game 'Omori' - This is best used with DarkdoomZ, (https://github.com/caligari87/darkdoomz/releases/tag/v1.9), Hideous Destructor (https://codeberg.org/mc776/HideousDestructor), And other quality of life mods. I.E: Live reverb mod. (https://forum.zdoom.org/viewtopic.php?f=43&amp;t=71849)
